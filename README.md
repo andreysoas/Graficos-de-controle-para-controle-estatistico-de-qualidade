@@ -1,1 +1,1 @@
-# Um estudo sobre gráficos de controle.
+# Um estudo sobre Controle estatístico de qualidade.
