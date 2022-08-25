@@ -1,1 +1,1 @@
-# Um estudo sobre Controle estatístico de qualidade.
+Um estudo sobre Controle estatístico de qualidade, passando pela criação dos gráficos de controle, e a análise de Repetição e Reprodução, que servem como ferramental para análise dos sistemas de medição.
